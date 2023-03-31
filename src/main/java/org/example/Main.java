@@ -15,6 +15,7 @@ public class Main {
 //        2/ handle checkboxes
 //        handleCheckboxes();
         //3/ handle dropdown list
+        System.out.println("hello world");
         handleDropdownList();
 
     }
