@@ -11,7 +11,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws InterruptedException {
 //        1/ login
-//        loginForm("test", "test");
+//        loginForm("test", "testa");
 //        2/ handle checkboxes
 //        handleCheckboxes();
         //3/ handle dropdown list
